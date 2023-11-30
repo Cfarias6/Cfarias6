@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cfarias6/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cfarias6/azure-network-protocols)
   - [Network-File-Shares-and-Permissions](https://github.com/Cfarias6/Network-File-Shares-and-Permissions)
+  - [Building-Intuition-for-DNS](https://github.com/Cfarias6/building-intuition-for-DNS)
 
 <h2>🤳Connect with me:</h2>
 
